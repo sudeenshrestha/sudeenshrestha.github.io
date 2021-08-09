@@ -1,0 +1,53 @@
+h1{
+    background-color: chocolate;
+    color: green;
+    font-family: 'Lucida Sans', sans-serif;
+    text-align: center;
+}
+a{
+    padding: 20px;
+    background-color: green;
+    color: white;
+}
+
+body{
+    margin:0;
+    background-color: #71EFA3
+}
+a{
+    margin:0;
+}
+a:hover{
+    background-color:yellow;
+    color: red;
+}
+footer{
+    padding: 20px;
+    background-color: red;
+    color: white;
+}
+
+.top{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border:solid 20px;
+    border-color: black;
+    padding: 20px;
+}
+.mid{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    border: 10px;
+    border-color: black;
+    padding: 20px;
+}
+}
+.bot{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+}
