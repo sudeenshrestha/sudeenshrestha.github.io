@@ -1,5 +1,5 @@
 h1{
-    background-color: chocolate;
+    
     color: green;
     font-family: 'Lucida Sans', sans-serif;
     text-align: center;
@@ -12,7 +12,7 @@ a{
 
 body{
     margin:0;
-    background-color: #71EFA3
+    background-color: #fff
 }
 a{
     margin:0;
